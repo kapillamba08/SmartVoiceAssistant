@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/443028fc-6f62-434a-97a3-b0cab1a2837f" width="300">
 <img src="https://github.com/user-attachments/assets/39aa068f-4f41-4904-8596-ebe33c2dbe15" width="300">
-
+<img src="https://github.com/user-attachments/assets/70305377-c392-45cd-8c5a-776be06b2958" width="300">
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
